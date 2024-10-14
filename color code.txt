@@ -1,0 +1,11 @@
+color ;footer+header, #102719, 
+background; #5dc787
+
+#16061a
+#dc78f5
+
+.btn-primary {
+    color: #fff;
+    background-color: #5d176f;
+    border-color: #5d176f;
+}
